@@ -1,0 +1,203 @@
+AF	阿富汗	Afghanistan	Afghanistan
+AI	安圭拉	Anguilla	Anguilla
+AM	亚美尼亚	Armenia	Arménie
+AR	阿根廷	Argentina	Argentine
+AW	阿鲁巴	Aruba	Aruba
+AU	 澳大利亚	Australia	Australie
+AT	奥地利	Austria	Autriche
+AZ	阿塞拜疆	Azerbaijan	Azerbaïdjan
+BS	巴哈马	Bahamas	Bahamas
+BH	巴林	Bahrain	Bahreïn
+BD	孟加拉	Bangladesh	Bangladesh
+BB	巴巴多斯	Barbados	Barbados
+BY	白俄罗斯	Belarus	Bélarus
+BE	比利时	Belgium	Belgique
+BZ	伯利兹	Belize	Belize
+BJ	贝宁	Benin	Bénin
+BM	百慕大	Bermuda	Bermudes
+BT	不丹	Bhutan	 Bhoutan
+BO	玻利维亚	Bolivia	Bolivie
+BV	 布维岛	Bouvet Islands	île Bouvet
+BR	巴西	Brazil	Brésil
+IO	英属印度洋领地	British Indian Ocean Territory	Territoire britannique de l'océan Indien
+VI	英属维尔京群岛	British Virgin Islands	 îles Vierges britanniques
+BN	 文莱	Brunei	Brunei
+BG	保加利亚	Bulgaria	Bulgarie
+BF	布基纳法索	Burkina Faso	 Burkina-Faso
+BI	布隆迪	Burundi	Burundi
+KH	柬埔寨	Cambodia	Cambodge
+CM	 喀麦隆	Cameroon	Cameroun
+CA	加拿大	Canada	Canada
+CV	佛得角	Cape Verde	Cap-Vert
+KY	开曼群岛	Cayman Islands	îles Caïmans
+CF	中非共和国	Central African Republic	République Centrafricaine
+TD	乍得	Chad	Tchad
+CL	 智利	Chile	Chili
+CN	中国	China	République populaire de Chine
+CO	哥伦比亚	Colombia	Colombie
+KM	科摩罗	Comoros	Comores
+CG	刚果	Congo	Congo
+CR	 哥斯达黎加	Costa Rica	Costa Rica
+CI	科特迪瓦哈加格	Cote D'Ivorie	Côte d'Ivoire
+HR	 克罗地亚	Croatia	Croatie
+CY	塞浦路斯	Cyprus	Chypre
+CZ	捷克	Czech Republic	République tchèque
+DK	丹麦	Denmark	Danemark
+DJ	吉布提	Djibouti	Djibouti
+DM	多米尼克	Dominica	Dominique
+DO	多米尼加	Dominican Republic	République dominicaine
+EG	埃及	Egypt	Egypte
+SV	萨尔瓦多	El Salvador	Salvador
+EC	厄瓜多尔	Equador	Equateur
+GQ	赤道几内亚	Equatorial Guinea	Guinée Equatoriale
+ER	厄立特里亚	Eritrea	Erythrée
+EE	爱沙尼亚	Estonia	Estonie
+ET	埃塞俄比亚	Ethiopia	Ethiopie
+FK	福克兰群岛	Falkland Islands	îles Falkland
+FO	法罗群岛	Faroe Islands	îles Féroé
+FM	密克罗尼西亚联邦	Federated States of Micronesia	Etats fédérés de Micronésie
+FJ	斐济	Fiji	Fidji
+FI	芬兰	Finland	Finlande
+FR	法国	France	France
+GF	法属圭亚那	French Guiana	Guyane française
+PF	法属波利尼西亚	French Polynesia	Polynésie française
+GA	加蓬	Gabon	Gabon
+GM	冈比亚	Gambia	Gambie
+GE	格鲁吉亚	Georgia	Géorgie
+DE	德国	Germany	Allemagne
+GH	 加纳	Ghana	Ghana
+GI	直布罗陀	Gibraltar	Gibraltar
+GR	希腊	Greece	Grèce
+GL	 格陵兰	Greenland	Groenland
+GD	格林纳达	Grenada	Grenade
+GP	瓜德罗普岛	Guadeloupe	Guadeloupe
+GU	关岛	Guam	Guam
+GT	危地马拉	Guatemala	Guatemala
+GN	几内亚	Guinea	Guinée
+GW	几内亚比绍	Guinea- Bissau	Guinée-Bissau
+GY	圭亚那	Guyana	Guyane
+HT	海地	Haiti	Haïti
+HN	 洪都拉斯	Honduras	Honduras
+HK	香港	Hong Kong	Hong-Kong
+HU	匈牙利	Hungary	Hongrie
+IS	冰岛	Iceland	Islande
+IN	印度	India	Inde
+ID	印尼	Indonesia	Indonésie
+IE	爱尔兰	Republic of Ireland	Irlande
+IL	以色列	Israel	Israël
+IT	意大利	Italy	Italie
+JM	牙买加	Jamaica	Jamaïque
+JP	 日本	Japan	Japon
+JO	乔丹	Jordan	Jordanie
+KZ	哈萨克斯坦	Kazakhstan	Kazakhstan
+KE	肯尼亚	Kenya	Kenya
+KI	基里巴斯	Kiribati	Kiribati
+KW	科威特	Kuwait	Koweit
+KG	吉尔吉斯斯坦	Kyrgyzstan	Kirghizistan
+LA	老挝	Laos	Laos
+LV	拉脱维亚	Latvia	Lettonie
+LB	 黎巴嫩	Lebanon	Liban
+LS	莱索托	Lesotho	Lesotho
+LR	利比里亚	Liberia	Libéria
+LI	 列支敦士登	Liechtenstein	Liechtenstein
+LT	立陶宛	Lithuania	Lituanie
+LU	卢森堡	Luxembourg	Luxembourg
+MO	澳门	Macau	Macao
+MG	马达加斯加	Madagascar	Madagascar
+MW	马拉维	Malawi	Malawi
+MY	马来西亚	Malaysia	Malaisie
+MV	马尔代夫	Maldives	Maldives
+ML	马里	Mali	Mali
+MT	 马耳他	Malta	Malte
+MH	马绍尔群岛	Marshall Islands	îles Marshall
+MQ	马提尼克岛	Martinique	Martinique
+MR	毛里塔尼亚	Mauritania	Mauritanie
+YT	马约	Mayotte	Mayotte
+FX	法属美特罗波利坦	Metropolitan France	Metropolitan,France
+MX	 墨西哥	Mexico	Mexique
+MD	摩尔多瓦	Moldova	Moldavie
+MN	蒙古	Mongolia	Mongolie
+MA	摩洛哥	Morocco	Maroc
+MZ	莫桑比克	Mozambique	Mozambique
+NA	纳米比亚	Namibia	Namibie
+NR	瑙鲁	Nauru	Nauru
+NP	 尼泊尔	Nepal	Népal
+AN	荷属安地列斯群岛	Neterlands Antilles	Antilles néerlandaises
+NL	荷兰	Netherlands	Pays-Bas
+NC	新喀里多	New Caledonia	Nouvelle-Calédonie
+NZ	新西兰	New Zealand	Nouvelle-Zélande
+NI	 尼加拉瓜	Nicaragua	Nicaragua
+NE	尼日尔	Niger	Niger
+NG	尼日利亚	Nigeria	Nigeria
+MP	北马里亚纳群岛	Northern Mariana Islands	îles Mariannes du Nord
+NO	挪威	Norway	Norvège
+OM	阿曼	Oman	Oman
+PK	巴基斯坦	Pakistan	Pakistan
+PW	贝劳	Palau	Palau
+PA	巴拿马	Panama	Panama
+PG	巴布亚新几内亚	Papua New Guinea	Papouasie-Nouvelle-Guinée
+PY	巴拉圭	Paraguay	Paraguay
+PE	秘鲁	Peru	Pérou
+PH	菲律宾	Philippines	Philippines
+PN	皮特凯恩群岛	Pitcairn	îles Pitcairn
+PL	波兰	Poland	Pologne
+PT	葡萄牙	Portugal	Portugal
+PR	波多黎各	Puerto Rico	Porto Rico
+QA	卡塔尔	Qatar	Qatar
+KR	韩国	Republic of Korea	Corée du sud
+MK	马其顿	Republic of Macedonia	République de Macédoine
+RE	留尼旺	Reunion	Réunion
+RO	罗马尼亚	Romania	Roumanie
+RU	俄罗斯	Russia	Russie
+ST	 圣多美和普林西比	Sao Tome and Principe	Sao Tomé e Principe
+SA	沙特阿拉伯	Saudi Arabia	Arabie Saoudite
+SN	塞内加尔	Senegal	Sénégal
+SC	塞舌尔	Seychelles	Seychelles
+SG	新加坡	Singapore	Singapour
+SK	斯洛伐克	Slovakia	Slovaquie
+SI	斯洛文尼亚	Slovenia	Slovénie
+SB	所罗门群岛	Solomon Islands	îles Salomon
+SO	索马里	Somalia	Somalie
+ZA	南非	South Africa	Afrique du Sud
+ES	西班牙	Spain	Espagne
+LK	斯里兰卡	Sri Lanka	Sri Lanka
+SH	圣赫勒拿	St. Helena	Sainte-Hélène
+KN	圣基茨和尼维斯	St. Kitts and Nevis	Saint-Kitts-et-Nevis
+LC	圣露西亚	St. Lucia	Sainte-Lucie
+VC	圣文森特和格林纳丁斯	St. Vincent and the Grenadines	Saint-Vincent et Grenadines
+SD	苏丹	Sudan	Soudan
+SR	苏里南	Suriname	Surinam
+SJ	斯瓦尔巴和扬马延岛	Svalbard and Jan Mayen Islands	Svalbard et Jan Mayen
+SZ	斯威士兰	Swaziland	Swaziland
+SE	 瑞典	Sweden	Suède
+CH	瑞士	Switzerland	Suisse
+SY	叙利亚	Syria	Syrie
+TW	 台湾	Taiwan	Taiwan
+TJ	塔吉克斯坦	Tajikistan	Tadjikistan
+TZ	坦桑尼亚	Tanzania	Tanzanie
+TH	泰国	Thailand	Thaïlande
+TG	多哥	Togo	Togo
+TO	 汤加	Tonga	Tonga
+TT	特立尼达和多巴哥	Trinidad and Tobago	Trinité et Tobago
+TR	 土耳其	Turkey	Turquie
+TM	土库曼斯坦	Turkmenistan	Turkménistan
+TC	特克斯和凯科斯群岛	Turks and Caicos Islands	Îles Turques et Caïques
+TV	图瓦卢	Tuvalu	Tuvalu
+UG	乌干达	Uganda	Ouganda
+UA	乌克兰	Ukraine	Ukraine
+AE	阿拉伯联合酋长国	United Arab Emirates	Emirats Arabes Unis
+UK	英国	United Kingdom	Royaume-Uni
+USA	美国	United States USA	Etats-Unis d'Amérique
+UY	乌拉圭	Uruguay	Uruguay
+UZ	乌兹别克斯坦	Uzbekistan	Ouzbékistan
+VU	瓦努阿图	Vanuatu	Vanuatu
+VA	梵蒂冈	Vatican City	Vatican
+VE	委内瑞拉	Venezuela	Venezuela
+VN	越南	Vietnam	Viêt-Nam
+EH	西撒哈拉	Western Sahara	Sahara occidental
+YE	也门	Yemen	Yémen
+YU	南斯拉夫	Yugoslavia	Yougoslavie
+ZR	扎伊尔	Zaire	Zaïre
+ZM	赞比亚	Zambia	Zambie
+ZW	津巴布韦	Zimbabwe	Zimbabwe
+DPRK 	朝鲜	North Korea	Corée du Nord
