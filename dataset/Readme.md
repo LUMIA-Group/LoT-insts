@@ -2,7 +2,6 @@
 
 ## Download link
 
-+ Our URL link: https://dataset.acemap.info/jxqi/data.zip
 + Google drive
 https://drive.google.com/drive/folders/1qbUxrgO4j8LvV5pXxe8tvmcB2inqIJog?usp=sharing
 
